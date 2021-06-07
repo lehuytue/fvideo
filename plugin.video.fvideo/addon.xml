@@ -10,7 +10,7 @@
     <extension point="xbmc.addon.repository" name="fvideo">
         <dir>
 			<info compressed="true">https://raw.githubusercontent.com/taikhoanonlinevn/fvideo/master/plugin.video.fvideo/addon.xml</info>
-			<datadir zip="true">https://raw.githubusercontent.com/taikhoanonlinevn/fvideo/master</datadir>
+			<datadir zip="true">https://raw.githubusercontent.com/taikhoanonlinevn/fvideo/master/</datadir>
         </dir>
     </extension>
     <extension point="xbmc.addon.metadata">
